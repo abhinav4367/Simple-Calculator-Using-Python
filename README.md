@@ -27,7 +27,7 @@ This is a simple calculator implemented in Python. It performs basic arithmetic 
 
 4. Run the calculator:
    ```bash
-   python Simple-Calculator-Using-Python.py
+   python Calculator.py
 
 License
 
