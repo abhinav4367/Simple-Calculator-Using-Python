@@ -23,7 +23,7 @@ This is a simple calculator implemented in Python. It performs basic arithmetic 
 2. Navigate to the project directory:
 
    ```bash
-   cd simple-calculator-python
+   cd Simple-Calculator-Using-Python 
 
 4. Run the calculator:
    ```bash
